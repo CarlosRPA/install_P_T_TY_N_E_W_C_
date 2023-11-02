@@ -55,12 +55,14 @@ case $option in
   1)
     # Adicione aqui os comandos para instalar o portainer_e_traefik.sh
     git clone https://github.com/CarlosRPA/Port_Traef.git
+    cd Port_Traef
     chmod +x portainer_e_traefik.sh
     ./portainer_e_traefik.sh
     ;;
   2)
     # Adicione aqui os comandos para instalar o servidor.sh
     git clone https://github.com/CarlosRPA/Servidor_TY_E_A_C_W_N_N_.git
+    cd Servidor_TY_E_A_C_W_N_N_
     chmod +x servidor.sh
     ./servidor.sh
     ;;  
