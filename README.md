@@ -18,7 +18,7 @@ Clone os repositórios do Instalador do Portainer Traefik Typeboot N8N Evolution
 
 ```bash
 git clone https://github.com/CarlosRPA/install_P_T_TY_N_E_W_C_.git
-cd install_P_T_TY_N_E_W_C_.git
+cd install_P_T_TY_N_E_W_C_
 chmod +x instalador.sh
 ./instalador.sh
 ```
